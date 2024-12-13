@@ -129,4 +129,6 @@ console.log('New String:', newStr);
         console.log(isLeapYear(2400) +" For leap year.");
         console.log(isLeapYear(1900) +" For not leap year."); 
 
+        // End Assainmnt - 2
+
         
